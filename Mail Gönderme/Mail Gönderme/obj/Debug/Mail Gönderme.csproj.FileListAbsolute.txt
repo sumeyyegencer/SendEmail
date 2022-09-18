@@ -1,0 +1,10 @@
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.exe.config
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.exe
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\bin\Debug\Mail Gönderme.pdb
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\obj\Debug\Mail_Gönderme.Form1.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\obj\Debug\Mail_Gönderme.Properties.Resources.resources
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csproj.GenerateResource.cache
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csproj.CoreCompileInputs.cache
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.exe
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.pdb
+C:\Users\Sümmeye PC\Desktop\SumeyyeGener\Yazılım\PROJELER\FormsUygulamaları\Mail Gönderme\Mail Gönderme\obj\Debug\Mail Gönderme.csprojAssemblyReference.cache
