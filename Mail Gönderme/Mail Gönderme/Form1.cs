@@ -38,14 +38,14 @@ namespace Mail_Gönderme
             MailMessage mesajım = new MailMessage();
             SmtpClient istemci = new SmtpClient();
 
-            istemci.Credentials = new System.Net.NetworkCredential("sumeyyegencer@gmail.com", "");
+            istemci.Credentials = new System.Net.NetworkCredential("mail adresi yazılacak.", "sifre yazılacak.");
             istemci.Port=587;
             istemci.Host = "smtp.gmail.com";
             istemci.EnableSsl = true;
 
 
             mesajım.To.Add(txtTo.Text);
-            mesajım.From = new MailAddress("sumeyyegencer@gmail.com");
+            mesajım.From = new MailAddress("mail adresi yazılacak");
             mesajım.Subject = txtSubject.Text;
             mesajım.Body = txtMessage.Text;
 
